@@ -1,0 +1,50 @@
+h1 {
+	text-align: center;
+	color: #990099;
+}
+
+
+body {
+	font-family: Helvetica;
+}
+
+
+.chapter {
+	background-color: #990099;
+	border-radius: 20px;
+	color: white;
+	padding: 10px;
+}
+
+ 
+h2 {
+	margin: 10px;
+}
+
+.lessons {
+	background-color: #996699;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: #ffffff;
+}
+
+.lessons-title {
+	font-size: 20px;
+	margin: 8px;
+	text-align: center;
+	color: #ffffff;
+}
+
+.lessons-description {
+	font-weight: lighter;
+	margin: 6px;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.bold {
+	font-weight: bold;
+}
